@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+D7hN8NJj00r5oNg1DM6GR8HS2sVpUuZfU/8tJBRARS3LVfQaB64uOtBrxupQa853s5Pkn0jShMM385Ir5mWPg==",
+  "dgSpecHash": "OIAq+Brz4QE6KY5mzex3cRVtBPHB3ZJznZ97YX2QBcq6Zon2Crsg2WgI85r8Q6pGWae9l8t/zuDuMGwKN3nX2Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\alcides.neto\\source\\repos\\Microservice\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\alcides.neto\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\alcides.neto\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\alcides.neto\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\alcides.neto\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\alcides.neto\\.nuget\\packages\\mongodb.bson\\2.12.1\\mongodb.bson.2.12.1.nupkg.sha512",
     "C:\\Users\\alcides.neto\\.nuget\\packages\\mongodb.driver\\2.12.1\\mongodb.driver.2.12.1.nupkg.sha512",
     "C:\\Users\\alcides.neto\\.nuget\\packages\\mongodb.driver.core\\2.12.1\\mongodb.driver.core.2.12.1.nupkg.sha512",
