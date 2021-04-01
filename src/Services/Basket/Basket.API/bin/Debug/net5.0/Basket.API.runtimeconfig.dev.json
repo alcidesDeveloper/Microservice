@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\alcides.neto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\alcides.neto\\.nuget\\packages"
+    ]
+  }
+}
