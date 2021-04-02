@@ -30,3 +30,6 @@ C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.G
 C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.genruntimeconfig.cache
 C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.Grpc\bin\Debug\net5.0\Dapper.dll
 C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.Grpc\bin\Debug\net5.0\Npgsql.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.Grpc\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.Grpc\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.csprojAssemblyReference.cache

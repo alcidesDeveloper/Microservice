@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MS/xUkej7McCzFmp4xH1Iwf5PwpnEj7qlePrwORuYFLCfe4fUqrr0HFy9NX88eWF8dA/LFOaK7YkDJI+g6nEJQ==",
+  "dgSpecHash": "2hjhGnJCWz4cwjxjLbGA95eADjS9SIW5hLYgimwWPguFIBFIHWWWvXyCbodMn3DJBAMYGsO4+/K2j9IYm2zO1Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\alcides.neto\\source\\repos\\Microservice\\src\\Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,7 @@
     "C:\\Users\\alcides.neto\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
     "C:\\Users\\alcides.neto\\.nuget\\packages\\microsoft.extensions.options\\3.0.3\\microsoft.extensions.options.3.0.3.nupkg.sha512",
     "C:\\Users\\alcides.neto\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.3\\microsoft.extensions.primitives.3.0.3.nupkg.sha512",
+    "C:\\Users\\alcides.neto\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\alcides.neto\\.nuget\\packages\\npgsql\\5.0.4\\npgsql.5.0.4.nupkg.sha512",
     "C:\\Users\\alcides.neto\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
     "C:\\Users\\alcides.neto\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
