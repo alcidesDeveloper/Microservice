@@ -43,3 +43,14 @@ C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\b
 C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.Client.dll
 C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
 C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.Common.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\EventBus.Messages.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\Automatonymous.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\GreenPipes.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\MassTransit.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\NewId.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
