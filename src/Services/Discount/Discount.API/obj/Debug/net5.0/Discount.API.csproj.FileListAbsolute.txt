@@ -29,10 +29,3 @@ C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.A
 C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.API\obj\Debug\net5.0\ref\Discount.API.dll
 C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.API\obj\Debug\net5.0\Discount.API.pdb
 C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.API\obj\Debug\net5.0\Discount.API.genruntimeconfig.cache
-C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.API\bin\Debug\net5.0\Google.Protobuf.dll
-C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.API\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
-C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.API\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
-C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.API\bin\Debug\net5.0\Grpc.Core.Api.dll
-C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.API\bin\Debug\net5.0\Grpc.Net.Client.dll
-C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.API\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
-C:\Users\alcides.neto\source\repos\Microservice\src\Services\Discount\Discount.API\bin\Debug\net5.0\Grpc.Net.Common.dll

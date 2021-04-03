@@ -1,0 +1,14 @@
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Application.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Domain.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.csprojAssemblyReference.cache
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.AssemblyInfo.cs
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.deps.json
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.pdb
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Application.pdb
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Domain.pdb
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.csproj.CopyComplete
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.pdb

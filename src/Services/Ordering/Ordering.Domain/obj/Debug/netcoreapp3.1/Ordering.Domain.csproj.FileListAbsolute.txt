@@ -1,0 +1,9 @@
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Domain\bin\Debug\netcoreapp3.1\Ordering.Domain.deps.json
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Domain\bin\Debug\netcoreapp3.1\Ordering.Domain.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Domain\bin\Debug\netcoreapp3.1\Ordering.Domain.pdb
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Domain\obj\Debug\netcoreapp3.1\Ordering.Domain.csprojAssemblyReference.cache
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Domain\obj\Debug\netcoreapp3.1\Ordering.Domain.AssemblyInfoInputs.cache
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Domain\obj\Debug\netcoreapp3.1\Ordering.Domain.AssemblyInfo.cs
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Domain\obj\Debug\netcoreapp3.1\Ordering.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Domain\obj\Debug\netcoreapp3.1\Ordering.Domain.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Ordering\Ordering.Domain\obj\Debug\netcoreapp3.1\Ordering.Domain.pdb
