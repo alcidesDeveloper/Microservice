@@ -54,3 +54,6 @@ C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\b
 C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\RabbitMQ.Client.dll
 C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
 C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\alcides.neto\source\repos\Microservice\src\Services\Basket\Basket.API\bin\Debug\net5.0\EventBus.Messages.pdb
