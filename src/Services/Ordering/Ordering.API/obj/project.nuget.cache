@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9tMP7JNvDb8PDnsCnAO+zD9wIHwLjUslMvwW1cfJV2+Uq6QTv29wHlVBUKKm3sx/zeoD7EJ2SzI3YW5qM1FDYA==",
+  "dgSpecHash": "I+fA+lkdfAJHJjiMANEdwkAEpuTywmEiZdeFhff1zZxOGAk7xdi3KIepAMV4eExMFUaZdT2c5T81lYM+hP9UWA==",
   "success": true,
   "projectFilePath": "C:\\Users\\alcides.neto\\source\\repos\\Microservice\\src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
   "expectedPackageFiles": [
